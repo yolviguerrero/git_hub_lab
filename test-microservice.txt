@@ -2,7 +2,7 @@ config_url: abc-version-111.jar
 artifact_url: bcd-version-222.jar
 
 bc_url= oracle.com
-username= myuser
+username= myuserXX
 password= password
 
 parameter1= aaaaazzz
