@@ -5,7 +5,8 @@ bc_url= oracle.com
 username= myuserXX
 password= password
 
-parameter1= aaaaazzz
+parameter1= aaaXXaaa
+
 parameter2= bbbbbbb
 parameter3= cccczzz
 chichichiles1
