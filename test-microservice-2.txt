@@ -1,5 +1,5 @@
 config_url: abc-version-3333.jar
-artifact_url: bcd-version-4444.jar
+artifact_url: bcd-version-5555.jar
 
 bc_url= oracle.com
 username= myuser
